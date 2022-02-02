@@ -1,4 +1,7 @@
 module.exports = {
   
-  publicPath: '/bartender/'
+  publicPath: '/bartender/',
+  transpileDependencies: [
+    'vuetify'
+  ]
 }
