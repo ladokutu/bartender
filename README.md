@@ -1,4 +1,4 @@
-# frontend
+# bartender
 
 ## Project setup
 ```
